@@ -1,3 +1,3 @@
 # Mathaholic_app
-math game
+math game \n
 Author - Shivam gupta
